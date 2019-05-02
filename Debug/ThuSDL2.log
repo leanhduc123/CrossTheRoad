@@ -1,0 +1,66 @@
+﻿  stdafx.cpp
+  ThuSDL2.cpp
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\thusdl2.cpp(51): warning C4305: 'return': truncation from 'int' to 'bool'
+d:\vs2015\projects\thusdl2\thusdl2\thusdl2.cpp(157): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\thusdl2.cpp(165): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\thusdl2.cpp(169): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\thusdl2.cpp(180): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ThreatObject.cpp
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\threatobject.cpp(34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\threatobject.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\threatobject.cpp(44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\threatobject.cpp(52): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  TextObject.cpp
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  MainObject.cpp
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(122): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(126): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(130): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(134): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(161): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(162): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(164): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(165): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(211): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(212): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  game_map.cpp
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  Common_Function.cpp
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  BaseObject.cpp
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\common_function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  Running Code Analysis for C/C++...
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(48): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+d:\vs2015\projects\thusdl2\thusdl2\Common_Function.h(59): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  Generating Code...
+  ThuSDL2.vcxproj -> D:\VS2015\Projects\ThuSDL2\Debug\ThuSDL2.exe
+  ThuSDL2.vcxproj -> D:\VS2015\Projects\ThuSDL2\Debug\ThuSDL2.pdb (Full PDB)
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(169): warning C6385: Reading invalid data from 'map_data.tile[y1]':  the readable size is '80' bytes, but '84' bytes may be read.
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(177): warning C6386: Buffer overrun while writing to 'map_data.tile[y1]':  the writable size is '80' bytes, but '84' bytes might be written.
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(181): warning C6385: Reading invalid data from 'map_data.tile[y2]':  the readable size is '80' bytes, but '84' bytes may be read.
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(189): warning C6386: Buffer overrun while writing to 'map_data.tile[y2]':  the writable size is '80' bytes, but '84' bytes might be written.
+d:\vs2015\projects\thusdl2\thusdl2\mainobject.cpp(205): warning C6386: Buffer overrun while writing to 'mapdata.tile':  the writable size is '1280' bytes, but '1360' bytes might be written.
